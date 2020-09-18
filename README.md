@@ -14,12 +14,12 @@ Langkah-langkah mengimplementasikan recyclerview sebagai berikut :
 ### tampilan mode List
 > akan menampilkan daftar pahlawan beserta foto dan menampilkan sedikit informasi mengenai deskripsi pahlawan tersebut sekitar 2 baris
 ## Screnshoot
-![ALt Text]()
+![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/List.jpeg)
 
 ### tampilan mode Grid
 > akan menampilkan daftar pahlawan beserta foto dalam bentuk grid tanpa deskripsi/ hanya tampilan foto
 ## Screnshoot
-![ALt Text]()
+![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Grid.jpeg)
 
 
 
