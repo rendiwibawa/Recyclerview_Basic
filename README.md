@@ -21,6 +21,6 @@ Langkah-langkah mengimplementasikan recyclerview sebagai berikut :
 ## Screnshoot
 ![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Grid.jpeg)
 
-#THANKS
+# THANKS
 
 
