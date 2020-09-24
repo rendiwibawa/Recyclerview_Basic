@@ -23,11 +23,17 @@ Langkah-langkah mengimplementasikan recyclerview sebagai berikut :
 
 ### tampilan card view
 > akan menampilkan daftar pahlawan beserta foto dalam bentuk card view menampilkan sedikit informasi mengenai deskripsi pahlawan tersebut dan terdapat tambahan tombol share favorite pada setiap card view yang ada dan ketika di klick akan menampilkan toast apa itu toast ? scrool kebawah ya
+## Screnshoot
 ![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/card%20views.jpeg)
 
 ## Toast
 > Toast adalah salah sau Widget yang digunakan untuk menmpilkan pesan berupa Text, yang terlintas setelah pengguna melakukan aksi tertentu.
-![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/list%20toast.jpeg), ![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/toast%20cv1.jpeg), ![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/toast%20cv2.jpeg), ![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/toast.jpeg), 
+
+## Screnshoot
+![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/list%20toast.jpeg)
+![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/toast%20cv1.jpeg)
+![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/toast%20cv2.jpeg)
+![ALt Text](https://github.com/rendiwibawa/Recyclerview_Basic/blob/master/Screenshoot/toast.jpeg), 
 # THANKS
 
 
